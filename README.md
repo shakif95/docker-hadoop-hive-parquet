@@ -2,4 +2,4 @@
 
 This project will showcase how to spin up a Hadoop cluster with Hive in order to run SQL queries on Parquet files. Images for the nodes are based on https://hub.docker.com/u/bde2020 base images.
 
-All of this makes more sense if you follow the link in the repository to the article on Medium :)
+All of this makes more sense if you follow the link in the repository to the article on [Medium](https://towardsdatascience.com/making-big-moves-in-big-data-with-hadoop-hive-parquet-hue-and-docker-320a52ca175) :)
